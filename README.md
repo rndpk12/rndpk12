@@ -1,4 +1,4 @@
-<h1 align="center">Dhanapraveen Krishna</h1>
+<h1 align="center"> R N Dhanapraveen Krishna</h1>
 
 <p align="center">
 Software Engineer | Backend Development | Distributed Systems | AI Applications
