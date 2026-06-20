@@ -196,6 +196,3 @@ LinkedIn: https://www.linkedin.com/in/rndpk/
 
 Portfolio: https://rndpk-portfolio.vercel.app
 
----
-
-"Building reliable software, scalable systems, and products that create real-world impact."
