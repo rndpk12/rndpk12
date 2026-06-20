@@ -5,9 +5,8 @@ Software Engineer | Backend Development | Distributed Systems | AI Applications
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_GITHUB">GitHub</a> •
+  <a href="https://rndpk-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rndpk/">LinkedIn</a> •
   <a href="mailto:rndpk12@gmail.com">Email</a>
 </p>
 
@@ -224,11 +223,9 @@ Coming Soon...
 
 Email: rndpk12@gmail.com
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/rndpk/
 
-Portfolio: YOUR_PORTFOLIO
-
-GitHub: YOUR_GITHUB
+Portfolio: https://rndpk-portfolio.vercel.app
 
 ---
 
