@@ -57,13 +57,7 @@ Currently seeking Software Development Engineer and Backend Engineering opportun
 - Linux
 - GitHub Actions
 
-### Computer Science Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+**Note:** Learned these concepts by building real-world projects rather than solely through coursework or tutorials.
 
 ---
 
