@@ -170,7 +170,7 @@ Currently learning and implementing:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rndpk12" />
 </p>
----
+
 
 ## Contact
 
