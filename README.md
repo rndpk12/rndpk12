@@ -134,12 +134,7 @@ Distributed Background Processing System
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito" />
 </p>
 
-**Current Focus**
 
-- Data Structures & Algorithms
-- Problem Solving
-- Competitive Programming
-- Interview Preparation
 
 ---
 
@@ -162,33 +157,6 @@ Currently learning and implementing:
 - Distributed Task Queue
 - AI-Powered Financial Intelligence Platform
 - Real-Time Analytics Systems
-
----
-
-## Currently Learning
-
-- Advanced Backend Engineering
-- Go for High-Performance Systems
-- Distributed Systems Design
-- System Design Interviews
-- Cloud Infrastructure
-- Kubernetes
-- Event Streaming Architectures
-
----
-
-## Technical Blogs
-
-Articles and engineering notes on:
-
-- Backend Development
-- System Design
-- AI Applications
-- Distributed Systems
-- Software Engineering
-
-Coming Soon...
-
 ---
 
 ## 2026 Goals
@@ -206,15 +174,12 @@ Coming Soon...
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rndpk12&show_icons=true&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rndpk12&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndpk12&layout=compact&hide_border=true" />
 </p>
 
 ---
