@@ -157,15 +157,7 @@ Currently learning and implementing:
 
 ## GitHub Analytics
 
-## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rndpk12&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndpk12&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rndpk12" />
