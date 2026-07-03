@@ -1,7 +1,7 @@
 <h1 align="center"> R N Dhanapraveen Krishna</h1>
 
 <p align="center">
-Aspiring Software Engineer | Backend Development | Distributed Systems | AI Applications
+To be Software Engineer 
 </p>
 
 <p align="center">
