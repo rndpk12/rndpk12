@@ -1,7 +1,7 @@
-<h1 align="center"> R N Dhanapraveen Krishna</h1>
+<h1 align="center">R N Dhanapraveen Krishna</h1>
 
 <p align="center">
-To be Software Engineer 
+  Full-Stack Developer • Backend Engineering • Distributed Systems
 </p>
 
 <p align="center">
@@ -14,11 +14,13 @@ To be Software Engineer
 
 ## About Me
 
-Computer Science Engineering student at SRM Institute of Science and Technology with a strong interest in software engineering, backend development, distributed systems, and AI-powered applications.
+I'm a Computer Science Engineering graduate from **SRM Institute of Science and Technology** who enjoys building and shipping software.
 
-I enjoy building scalable products, designing reliable APIs, and solving complex engineering problems. My work focuses on creating production-grade applications using modern technologies such as React, FastAPI, PostgreSQL, Redis, Docker, and Go.
+I like working across the stack — from designing backend services and REST APIs to building frontend experiences and working with databases, caching, distributed processing, and CI/CD.
 
-Currently seeking Software Development Engineer and Backend Engineering opportunities where I can contribute to building impactful products at scale.
+I've built full-stack applications, AI-powered systems, and distributed backend systems using technologies such as **Java, Spring Boot, React.js, Python, FastAPI, Go, PostgreSQL, Redis, Docker, and GitHub Actions**.
+
+I enjoy learning by building, figuring things out when something breaks, and continuously improving the systems I work on.
 
 ---
 
@@ -29,6 +31,7 @@ Currently seeking Software Development Engineer and Backend Engineering opportun
 - Java
 - Python
 - JavaScript
+- Go
 - SQL
 
 ### Frontend
@@ -40,135 +43,171 @@ Currently seeking Software Development Engineer and Backend Engineering opportun
 
 ### Backend
 
-- FastAPI
 - Spring Boot
+- FastAPI
 - REST APIs
 
 ### Databases
 
 - PostgreSQL
-- MongoDB
 - Redis
+- MongoDB
+- pgvector
+
+### Systems & Engineering
+
+- Distributed Systems
+- Concurrent Processing
+- Asynchronous Processing
+- API Design
+- Database Design
+- Caching
+- Authentication & Authorization
+- Testing & Debugging
 
 ### DevOps & Tools
 
 - Docker
 - Git
-- Linux
 - GitHub Actions
-
-**Note:** Learned these concepts by building real-world projects rather than solely through coursework or tutorials.
-
----
-
-## Featured Projects
-
-### Atlas
-
-AI-powered Financial Intelligence Platform
-
-**Tech Stack:** React.js, FastAPI, PostgreSQL, Redis, Docker, Groq API
-
-- Built a Retrieval-Augmented Generation (RAG) platform for financial research.
-- Analyzed and processed 100+ financial documents using LLM workflows.
-- Developed intelligent search and document retrieval systems.
-- Implemented caching, monitoring, and structured logging for improved performance.
-
----
-
-### Quant Lab
-
-Quantitative Portfolio Analytics Platform
-
-**Tech Stack:** React.js, FastAPI, PostgreSQL, Redis, Plotly
-
-- Built interactive portfolio analytics dashboards.
-- Developed real-time data visualization and investment analysis tools.
-- Designed scalable backend APIs and data-processing pipelines.
-- Improved performance through reusable components and optimized rendering.
-
----
-
-### Distributed Task Queue
-
-Distributed Background Processing System
-
-**Tech Stack:** Go, Redis, PostgreSQL, Docker, WebSockets
-
-- Designed asynchronous task execution architecture.
-- Built monitoring dashboards and workflow automation features.
-- Implemented fault-tolerant worker scheduling mechanisms.
-- Automated deployment pipelines using Docker and GitHub Actions.
+- Linux
+- AWS
 
 ---
 
 ## Experience
 
+### Backend AI Engineer Intern | FlyRank AI
+
+**July 2026 – August 2026**
+
+- Built and maintained backend services using **Java, Python, and Spring Boot**.
+- Developed modular components and REST APIs for application workflows.
+- Worked with PostgreSQL and SQL-based data workflows, debugging issues and applying validation and testing.
+- Collaborated through Agile development, code reviews, Git, and CI/CD workflows.
+
 ### Web Developer Intern | Unified Mentor
 
 **June 2024 – July 2024**
 
-- Developed and integrated REST APIs with validation and exception handling.
-- Built unit and integration tests to improve software quality.
-- Participated in code reviews, debugging sessions, and Agile development workflows.
-- Collaborated on backend services supporting production applications.
+- Built full-stack application features using **JavaScript, React.js, HTML5, and CSS3**.
+- Integrated REST APIs and JSON-based workflows with validation and error handling.
+- Resolved application issues through testing, debugging, and Git-based collaboration.
+
+---
+
+## Featured Projects
+
+### Landed
+
+**Full-Stack Application**
+
+**Tech Stack:** Java, Spring Boot, React.js, PostgreSQL, Redis
+
+Built and shipped a full-stack application with a Java/Spring Boot backend and React frontend.
+
+- Designed REST APIs and data models for end-to-end application workflows.
+- Implemented authentication, authorization, validation, and error handling.
+- Used PostgreSQL for persistent data and Redis for caching.
+- Debugged and optimized database queries and application workflows.
+
+🔗 [Website](https://getlanded.vercel.app)  
+🔗 [GitHub](https://github.com/rndpk12/landed-backend)  
+🔗 [Case Study](https://rndpk-portfolio.vercel.app/project-landed.html)
+
+---
+
+### Distributed Task Queue
+
+**Distributed Background Processing System**
+
+**Tech Stack:** Go, PostgreSQL, Redis, Docker, AWS, GitHub Actions
+
+Built a distributed task processing platform for asynchronous job execution.
+
+- Implemented concurrent workers, scheduling, retries, and fault-tolerant processing.
+- Used Redis and PostgreSQL for task and state management.
+- Debugged distributed workflows to improve reliability.
+- Automated testing, builds, and deployments using Docker and GitHub Actions CI/CD.
+- Deployed components using AWS services including EKS, RDS, S3, and IAM.
+
+🔗 [GitHub](https://github.com/rndpk12/Distributed-Task-Q)  
+🔗 [Case Study](https://rndpk-portfolio.vercel.app/distributed-task-queue.html)
+
+---
+
+### Atlas
+
+**AI-Powered Financial Intelligence Platform**
+
+**Tech Stack:** Python, FastAPI, React.js, PostgreSQL, Redis, pgvector
+
+Built a financial intelligence platform combining full-stack development with AI-powered workflows.
+
+- Developed REST APIs and backend data-processing workflows using FastAPI.
+- Built responsive frontend workflows using React.js.
+- Integrated PostgreSQL, Redis, and pgvector for data storage, caching, and vector search.
+- Implemented validation, testing, debugging, and performance optimization.
+
+🔗 [GitHub](https://github.com/rndpk12/FinRAG)  
+🔗 [Live Demo](https://fin-rag-frontend.vercel.app)  
+🔗 [Portfolio](https://rndpk-portfolio.vercel.app)
+
+---
+
+### Quant Lab
+
+**Quantitative Portfolio Analytics Platform**
+
+**Tech Stack:** React.js, FastAPI, PostgreSQL, Redis, Plotly
+
+- Built interactive portfolio analytics and data visualization workflows.
+- Developed backend APIs and data-processing pipelines.
+- Created interactive dashboards for financial analysis.
+- Optimized reusable components and rendering workflows for better performance.
 
 ---
 
 ## Certifications
 
-- Oracle Certified Professional: Java SE 11 Developer
-- Oracle Cloud Infrastructure Foundations Associate
+- **Oracle Certified Professional: Java SE 11 Developer**
+- **Oracle Cloud Infrastructure Foundations Associate**
 
 ---
 
-## System Design Journey
+## What I'm Working On
 
-Currently learning and implementing:
+I'm currently focused on improving my skills in:
 
-- API Design
-- Database Design
-- Caching Strategies
-- Message Queues
+- Backend Engineering
 - Distributed Systems
-- Rate Limiting
-- Load Balancing
-- Microservices
-- Event-Driven Architecture
+- System Design
+- API Design
+- Database Design & Optimization
+- Caching & Asynchronous Processing
+- Cloud Infrastructure
+- AI-powered Applications
 
-### Learning Through Projects
-
-- Distributed Task Queue
-- AI-Powered Financial Intelligence Platform
-- Real-Time Analytics Systems
----
-
-## 2026 Goals
-
-- Secure a Software Development Engineer role.
-- Reach 500+ LeetCode problems solved.
-- Build and deploy 3 production-grade software products.
-- Contribute to open-source projects consistently.
-- Master System Design fundamentals.
-- Deepen expertise in distributed systems and backend engineering.
-- Publish technical blogs documenting engineering learnings.
+I learn primarily by **building projects, breaking things, debugging them, and improving them**.
 
 ---
 
-## GitHub Analytics
+## Building in Public
 
+I regularly work on personal projects to experiment with new technologies and engineering concepts.
 
+Some areas I'm exploring:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rndpk12" />
-</p>
-
-
-## Contact
-
-Email: rndpk12@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/rndpk/
-
-Portfolio: https://rndpk-portfolio.vercel.app
+```text
+Backend Engineering
+        ↓
+Distributed Systems
+        ↓
+Async Processing & Queues
+        ↓
+Database & Caching
+        ↓
+Cloud & Infrastructure
+        ↓
+AI-powered Applications
 
