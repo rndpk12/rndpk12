@@ -1,4 +1,4 @@
-# Hello there, I'm Praveen!
+# Hello there, I'm Praveen !
 
 A Computer Science Engineering graduate from **SRM Institute of Science and Technology** who loves to **build software and understand how systems work**.
 
